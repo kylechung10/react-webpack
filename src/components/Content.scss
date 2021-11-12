@@ -1,0 +1,8 @@
+$mainColor: rgb(149, 149, 255);
+#section-1 {
+  background: $mainColor;
+  .name {
+    color: red;
+    font-size: 30px;
+  }
+}
